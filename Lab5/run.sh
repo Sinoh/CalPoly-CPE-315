@@ -1,4 +1,4 @@
 make Matmul
-make ColMajOrd
+make ColMaj
 make Tile16
 make Tile32
